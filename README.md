@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning **Game Programming**
-- 📫 How to reach me: **hello@sokpapageorgiou.com**
-- 😄 Pronouns: He/him
+The Covid-19 pandemic made me decide to change the paths of my career.  Game Development started as a hobby and without me realizing it I was reading books about Agile principles and Clean Code.
+It became an obsession and now I am studying Game Programming at the Forsbergsskola in Sweden to level up my skills.
+Unity and C# are no strangers to me, also I am learning Unreal and C++.
+
+### Take a look on my portfolio [here](https://www.sokpapageorgiou.com/)
 
 #### Social NetWorks
 <div id="badges">
