@@ -6,12 +6,13 @@ Unity and C# are no strangers to me, also I am learning Unreal and C++.
 
 ### Take a look on my portfolio [here](https://www.sokpapageorgiou.com/)
 
-#### Social NetWorks
-<div id="badges">
-  <a href="https://www.linkedin.com/feed/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+#### You can find me here:
+<table><td>
+  
+[<img align="left" height="20" alt="porfolio" src="https://img.shields.io/badge/-Portfolio-blueviolet" />](https://www.sokpapageorgiou.com/)
+[<img align="left" height="20" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sokratis-papageorgiou-b26b1652/)
+
+</td></table>
 
 #### Tools and Languages
 <div>
