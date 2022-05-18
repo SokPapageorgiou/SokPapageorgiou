@@ -5,13 +5,7 @@ It became an obsession and now I am studying Game Programming at the Forsbergssk
 Unity and C# are no strangers to me, also I am learning Unreal and C++.
 
 #### You can find me here:  
-[<img align="left" height="20" alt="sokpapageorgiou.com" src="https://img.shields.io/badge/-sokpapageorgiou.com-blueviolet?style=flat-square" />](https://www.sokpapageorgiou.com/)
-[<img align="left" height="20" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square" />](https://www.linkedin.com/in/sokratis-papageorgiou-b26b1652/)    
+[`linkedin`](https://www.linkedin.com/in/sokratis-papageorgiou-b26b1652/) [`website`](https://www.sokpapageorgiou.com/) 
 
 #### Technologies
-[<img align="left" height="20" alt="C#" src="https://img.shields.io/badge/-C#-blueviolet?style=flat-square" />]
-[<img align="left" height="20" alt="Unity" src="https://img.shields.io/badge/-Unity-blueviolet?style=flat-square" />]
-[<img align="left" height="20" alt="C++" src="https://img.shields.io/badge/-C++-blueviolet?style=flat-square" />]
-[<img align="left" height="20" alt="Unreal" src="https://img.shields.io/badge/-Unreal-blueviolet?style=flat-square" />]
-[<img align="left" height="20" alt="Git" src="https://img.shields.io/badge/-Git-blueviolet?style=flat-square" />]
-[<img align="left" height="20" alt="JSON" src="https://img.shields.io/badge/-C#-blueviolet?style=flat-square" />]
+[`C#`] [`Unity`] [`C++`] [`Unreal`] [`JSON`]
