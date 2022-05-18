@@ -8,4 +8,3 @@ Unity and C# are no strangers to me, also I am learning Unreal and C++.
 
 #### 🛠️ `C#` `Unity` `C++` `Unreal` `JSON`
 
-[![Sokratis GitHub stats](https://github-readme-stats.vercel.app/api?username=SokPapageorgiou)](https://github.com/SokPapageorgiou/github-readme-stats)
