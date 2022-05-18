@@ -4,8 +4,8 @@ The Covid-19 pandemic made me decide to change the paths of my career.  Game Dev
 It became an obsession and now I am studying Game Programming at the Forsbergsskola in Sweden to level up my skills.
 Unity and C# are no strangers to me, also I am learning Unreal and C++.
 
-#### You can find me here:  
+#### You can find me @  
 [`linkedin`](https://www.linkedin.com/in/sokratis-papageorgiou-b26b1652/) [`website`](https://www.sokpapageorgiou.com/) 
 
 #### Technologies
-[`C#`] [`Unity`] [`C++`] [`Unreal`] [`JSON`]
+`C#` `Unity` `C++` `Unreal` `JSON`
