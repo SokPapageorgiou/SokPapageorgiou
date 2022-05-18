@@ -6,7 +6,7 @@ Unity and C# are no strangers to me, also I am learning Unreal and C++.
 
 #### You can find me here:  
 [<img align="left" height="20" alt="sokpapageorgiou.com" src="https://img.shields.io/badge/-sokpapageorgiou.com-blueviolet?style=flat-square" />](https://www.sokpapageorgiou.com/)
-[<img align="left" height="20" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square" />](https://www.linkedin.com/in/sokratis-papageorgiou-b26b1652/)
+[<img align="left" height="20" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square" />](https://www.linkedin.com/in/sokratis-papageorgiou-b26b1652/)    
 
 #### Technologies
 [<img align="left" height="20" alt="C#" src="https://img.shields.io/badge/-C#-blueviolet?style=flat-square" />]
