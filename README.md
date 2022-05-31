@@ -1,4 +1,4 @@
-### 👽 Hello there, Sokratis here! 
+### 👽🧩 Hello there, Sokratis here! 
 
 The Covid-19 pandemic made me decide to change the paths of my career.  Game Development started as a hobby and without me realizing it I was reading books about Agile principles and Clean Code.
 It became an obsession and now I am studying Game Programming at the Försbergsskola in Sweden to level up my skills.
