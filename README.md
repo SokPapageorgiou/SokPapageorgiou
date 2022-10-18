@@ -1,8 +1,8 @@
 ### 👽🧩 Hello there, Sokratis here! 
 
-The Covid-19 pandemic made me decide to change the paths of my career.  Game Development started as a hobby and without me realizing it I was reading books about Agile principles and Clean Code.
-It became an obsession and now I am studying Game Programming at the Försbergsskola in Sweden to level up my skills.
-Unity and C# are no strangers to me, also I am learning Unreal and C++.
+After a very intense time learning the SOLID principles and Design Patterns, I've got myself trapped into AI's rabbit hole. Been mesmerized by Decision Trees, State Machines, Pathfinders, Procedural Content Generation.
+
+My goal is to not be Engine dependent and be able to write in both C++ and C#. Unity API is no stranger to me, Unreal API is making a good progress into my brain and I am pretty open to learn another Engine, if necessary.
 
 #### 🔭 @ [`sokpapageorgiou.com`](https://www.sokpapageorgiou.com/) [`LinkedIn`](https://www.linkedin.com/in/sokratis-papageorgiou-b26b1652/) 
 
