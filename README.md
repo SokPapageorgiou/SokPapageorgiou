@@ -1,8 +1,8 @@
 ### 👽🧩 Hello there, Sokratis here! 
 
-After a very intense time learning the SOLID principles and Design Patterns, I've got myself trapped into AI's rabbit hole. Been mesmerized by Decision Trees, State Machines, Pathfinders, Procedural Content Generation.
+Game Developer with a passion for algorithms, data structures and design patterns. Pushing myself to level up my TDD skills and learning programming paradigms other than OOP.
 
-My goal is to not be Engine dependent and be able to write in both C++ and C#. Unity API is no stranger to me, Unreal API is making a good progress into my brain and I am pretty open to learn another Engine, if necessary.
+Love to solve complex problems, doesn't matter in which part of the application.
 
 #### 🔭 @ [`sokpapageorgiou.com`](https://www.sokpapageorgiou.com/) [`LinkedIn`](https://www.linkedin.com/in/sokratis-papageorgiou-b26b1652/) 
 
